@@ -50,10 +50,10 @@ Old recording showcasing some of the mechanics: [YouTube](https://www.youtube.co
 **R:** Reload Current Weapon  
 
 *UI:*  
-**F:** Use Smart Object (Pickup items, Doors)  
+**F:** Use Interactive Object (Pickup items, Doors)  
 **I:** Toggle Inventory  
 **X:** Radial Menu  
-**Tab:** Online Sessions Menu
+**Tab:** Online Sessions Menu  
 **Z:** Toggle Mouse Cursor  
 
 *Other:*  
