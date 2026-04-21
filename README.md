@@ -1,8 +1,8 @@
-# UE4 Study Project Demo
+# Third-Person Shooter Prototype in Unreal Engine 4
 
 ![Gym](Gym.png)
 
-Hello! I started working on this study project as a part of an Unreal Engine 4 course ([XYZ School](https://www.school-xyz.com/main_eng)) in the beginning of 2024. Using the knowledge gained during the course and my independent learning, I improved it and extended most of the features.
+Hello! I started working on this project as a part of a gameplay programmer course ([XYZ School](https://www.school-xyz.com/main_eng)) in early 2024. Using the knowledge I gained during the course, along with my independent learning, I further improved the project and expanded many of its features.
 
 Implemented features:
 - Character movement
@@ -24,7 +24,7 @@ Code samples:
 [EquipmentComponent.cpp](https://github.com/Neolias/u4-study-project-demo/blob/main/ue4/Source/XyzHomework/Components/CharacterComponents/CharacterEquipmentComponent.cpp)  
 
 See the latest debug build here: [Releases](https://github.com/Neolias/ue4-study-project-demo/releases)  
-Old recording showcasing some of the mechanics: [YouTube](https://www.youtube.com/watch?v=TFxdaA3Rt28)
+Old recording showcasing some of the features: [YouTube](https://www.youtube.com/watch?v=TFxdaA3Rt28)
 
 ## Doxygen Documentation
 [https://neolias.github.io/ue4-study-project-demo/html/annotated.html](https://neolias.github.io/ue4-study-project-demo/html/annotated.html)  
